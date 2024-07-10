@@ -1,0 +1,1 @@
+import{n as s,M as e,L as r,O as t,S as x}from"./components-BycVjA4m.js";function n(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx(e,{}),s.jsx(r,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Hello World"}),s.jsx(t,{}),s.jsx(x,{})]})]})}export{n as default};
