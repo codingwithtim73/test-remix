@@ -3,7 +3,7 @@ import styles from "./about.module.css";
 export const meta = () => {
   return [
     { title: "Our About Page" },
-    { name: "description", content: "Welcome to our About Us Page!  " },
+    { name: "description", content: "Welcome the About Us Page!  " },
   ];
 };
 export default function About() {
